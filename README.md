@@ -4,6 +4,21 @@ Prototype submission for the Visualization Wall Art + Tech Competition hosted by
 
 ----interact with prototype in progress on p5.js----
 
+User's manual
+ * mouse               : click and drag to create a path to draw a pendulum along with
+ *
+ * KEYS
+ * 1                   : toggle path line
+ * 2                   : toggle pendulum
+ * 3                   : toggle pendulum path
+ * 4                   : toggle fill mode
+ * arrow up            : increase length of lines
+ * arrow down          : decrease length of lines
+ * arrow left          : decrease gravity
+ * arrow right         : increase gravity
+ * del, backspace      : clear screen
+ * s                   : save png
+
 https://editor.p5js.org/KaiserZZK/full/qGexcp3sk
 
 ----About The Hanging Garden----
